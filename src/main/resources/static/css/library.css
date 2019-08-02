@@ -1,0 +1,84 @@
+h1{
+	display:inline-block;
+	margin-left: 500px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+	margin-top:20px;
+	color: white;
+}
+
+#header{
+	background-image: linear-gradient(to bottom right, grey, black);
+}
+
+#body{
+	background-image: linear-gradient(black, white);
+}
+
+#reading{
+	display:inline-block;
+}
+
+table{
+	text-align:center;
+}
+
+.table{
+	width: 900px;
+	margin-left: 100px;
+	border-radius:10px;
+	margin-top:20px;
+}
+
+.table thead tr{
+	display:block;
+	text-align:center;
+}
+
+.table tbody{
+	display:block;
+	overflow-y:auto;
+	height:600px;
+	overflow-x:hidden;
+}
+
+#title{
+	width:257px;
+}
+
+#book_title{
+	width:240px;
+}
+
+#author{
+	width:116px;
+}
+
+#publisher{
+	width:167px;
+}
+
+#book_publisher{
+	width: 165px;
+}
+
+#pages{
+	width:50px;
+}
+
+#read{
+	width:47px;
+}
+
+#book_read{
+	width: 60px;
+	text-align:right;
+}
+
+#actions{
+	width:263px;
+}
+
+#book_actions{
+	width:265px;
+}

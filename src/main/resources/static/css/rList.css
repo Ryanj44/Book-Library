@@ -1,0 +1,75 @@
+h1{
+	display:inline-block;
+	margin-left:450px;
+	margin-right: 330px;
+	margin-top:20px;
+	margin-bottom:20px;
+	color:white;
+}
+
+#header{
+	background-image: linear-gradient(to bottom right, grey, black);
+}
+
+#body{
+	background-image: linear-gradient(black, white);
+}
+
+#library{
+	display:inline-block;
+}
+
+table{
+	text-align:center;
+}
+
+.table{
+	width: 900px;
+	margin-left: 100px;
+	border-radius:10px;
+	margin-top:20px;
+}
+
+.table thead tr{
+	display:block;
+	text-align:center;
+}
+
+.table tbody{
+	display:block;
+	overflow-y:auto;
+	height:600px;
+	overflow-x:hidden;
+}
+
+#book_title{
+	width:215px;
+}
+
+#title{
+	width:210px;
+}
+
+#author{
+	width:140px;
+}
+
+#book_publisher{
+	width: 200px;
+}
+
+#publisher{
+	width: 170px;
+}
+
+#book_pages{
+	width:150px;
+}
+
+#pages{
+	width: 180px;
+}
+
+#action{
+	width: 180px;
+}

@@ -1,0 +1,32 @@
+h1{
+	display:inline-block;
+	margin-top:20px;
+	margin-left:460px;
+	margin-right:250px;
+	margin-bottom:20px;
+	color:white;
+}
+
+#library{
+	display:inline-block;
+	margin-right:30px;
+}
+
+#rList{
+	display:inline-block;
+}
+
+#header{
+	background-image: linear-gradient(to bottom right, grey, black);
+}
+
+#body{
+	text-align:center;
+	background-image: linear-gradient(black, white);
+}
+
+img{
+	margin-top:20px;
+	height: 450px;
+	width:400px;
+}
